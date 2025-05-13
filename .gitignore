@@ -1,4 +1,5 @@
 *.log
 *.tmp
 *.bak
-testowy_plik.txt
+*.log
+*.build
